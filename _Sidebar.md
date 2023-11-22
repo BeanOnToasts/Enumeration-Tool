@@ -13,3 +13,5 @@
 > [Scan Ports](https://github.coventry.ac.uk/thorntonj/13764108_CW/wiki/Scan-Ports)
 
 ## Privilege Escalation
+
+> [Find Hashed Passwords](https://github.coventry.ac.uk/thorntonj/13764108_CW/wiki/Find-Hashed-Passwords)
