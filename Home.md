@@ -15,3 +15,6 @@ This wiki will cover how to use the tool and the limitations and requirements of
 > The privilege escalation functions can only be performed on Linux machines
 ## Files
 * [Write All to File](https://github.coventry.ac.uk/thorntonj/13764108_CW/wiki/Write-All-to-FIle)
+
+# Important Information
+* Remember to '$ pip install Requirements.txt' 
