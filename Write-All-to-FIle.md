@@ -6,3 +6,4 @@ Runs all functions and writes the information to the file
 * Can only get hashed passwords on Linux
 * This can be ran before the other functions as it runs them separately
 * File must not be open when running this command
+* Writes all the information to ONE file, each function will create a file separately, this is for if you need one file with all the info
