@@ -1,4 +1,4 @@
-# [Enumeration & Privilege Escalation Tool](https://github.coventry.ac.uk/thorntonj/13764108_CW/wiki)
+# [Enumeration & Privilege Escalation Tool Wiki](https://github.coventry.ac.uk/thorntonj/13764108_CW/wiki)
 ## Buttons
 ### Enumeration
 > [Show OS Info](https://github.coventry.ac.uk/thorntonj/13764108_CW/wiki/Show-OS-Info)
