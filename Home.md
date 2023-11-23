@@ -19,3 +19,4 @@ This wiki will cover how to use the tool and the limitations and requirements of
 # Important Information
 * Remember to '$ pip install Requirements.txt' 
 * [References](https://github.coventry.ac.uk/thorntonj/13764108_CW/wiki/References)
+* [Issues](https://github.coventry.ac.uk/thorntonj/13764108_CW/wiki/Issues)
