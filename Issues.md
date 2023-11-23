@@ -11,3 +11,7 @@
 ### 6. Wrong CSV file names
 * Port scan CSV file had the process list headings rather than port scan
 > Heading names changed
+# Unsolved
+1. Resource Warning
+* Testing port scan returns a resource warning
+> Telling unittest to ignore warning hides the warning but does not solve it
