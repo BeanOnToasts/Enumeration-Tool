@@ -7,3 +7,5 @@ Return list of hashed password and which users they are associated with
 * Returns list of dictionaries (User : Password Hash) which is displayed one by one
 ## Notes
 * Sticky bit vulnerability must exist for this to work
+## Replicate Vulnerability
+* sudo chmod 4777 /usr/bin/ssh
