@@ -6,3 +6,5 @@ Allows you to run admin commands in the terminal
 ## Notes
 * SUID vulnerability must be active to run
 * Type "exit" in the CLI when finished
+## Replicate Vulnerability
+* $ sudo chmod 4755 /usr/bin/python3
