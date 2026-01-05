@@ -1,4 +1,4 @@
-[Privilege Escalation Video](https://youtu.be/p4mg_o639Fg)
+This is a copy of the tool I designed in my first year of universtiy.
 ***
 
 > This tool is use to enumerate a Windows or Linux machine through a series of operations or escalate your privileges on a Linux machine.
@@ -17,3 +17,4 @@
 * Get Admin CLI - Allows you to run admin commands in the terminal (use "$ exit" to stop program)
 ## FILE FUNCTIONS (purple)
 * Write All to File - Runs all functions and writes the information to the file (do not have to run other enumeration functions first)
+
