@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/project_sdk" />
+      <excludeFolder url="file://$MODULE_DIR$/project_venv" />
+      <excludeFolder url="file://$MODULE_DIR$/CW_venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.11 (13764108_CW)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
